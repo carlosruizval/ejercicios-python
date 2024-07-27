@@ -1,5 +1,5 @@
-base = 12
-altura = 15
+base = 30
+altura = 25
 
 resultado = (base * altura)
 
